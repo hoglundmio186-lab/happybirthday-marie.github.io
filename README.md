@@ -1,4 +1,3 @@
-# happybirthday-marie.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -61,7 +60,7 @@
     }
 
     #memories img {
-      width: 200px;
+      width: 300px;
       height: auto;
       border-radius: 15px;
       margin: 10px;
@@ -83,12 +82,10 @@
 </head>
 <body>
   <h1>💖 Happy Birthday, Marie! 💖</h1>
-  <p>Even though we haven’t known each other for very long, it already feels like you’ve been a part of our lives forever. It feels like just yesterday when we all played ACNH together for the first time — and somehow, from that moment, everything just felt right.</p>
-
-  <p>You may be older than us, but you’ve always made us feel equal — like we truly belong. You bring such warmth, patience, and care into every conversation, and you always make sure everyone feels comfortable and included.</p>
-
-  <p>We love you so much, and we’re so grateful for every moment we’ve shared so far. Thank you for being such a wonderful friend — for your kindness, your humor, and for being *you.*</p>
-
+  <p>Dear Marie,</p>
+  <p>Although we haven't known you for that long, it already feels like you've been in our lives forever. It feels like just yesterday when we first played ACNH together, and somehow from that moment, everything just felt right.</p>
+  <p>You may be older than us, but you have always made us feel at an equal level, like we truly belong. You bring such warmth, patience, and care into every conversation, making sure everyone is comfortable and included. With you, we can be ourselves completely. With you, we always end up laughing. And with you, there's never a dull moment.</p>
+  <p>We love you so much and are just so grateful for each and every moment we've spent together so far. Thank you for being such an amazing friend—for your kindness, your sense of humor, and for just being yourself. Here's to many more cozy calls, endless laughter, and new memories together.</p>
   <p>With all our love,<br><b>Kachow, Lu & Mio</b></p>
 
   <div class="heart">💗💗💗</div>
@@ -96,9 +93,9 @@
   <button onclick="toggleMemories()">Show our memories 💫</button>
 
   <div id="memories">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Animal_Crossing_Leaf.svg/1200px-Animal_Crossing_Leaf.svg.png" alt="ACNH memory">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Island_in_the_sunset.jpg/640px-Island_in_the_sunset.jpg" alt="Island memory">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Animal_Crossing_New_Horizons_-_Logo.png/640px-Animal_Crossing_New_Horizons_-_Logo.png" alt="Game memory">
+    <img src="https://i.imgur.com/oiCZNV7.jpg" alt="Memory 1">
+    <img src="https://i.imgur.com/m8LTzZe.jpg" alt="Memory 2">
+    <img src="https://i.imgur.com/oiCZNV7.jpg" alt="Memory 3">
   </div>
 
   <div id="extraMessage">We’ll never forget these moments ❤️</div>
